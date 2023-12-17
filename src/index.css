@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", Arial, sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image:url("main_theme.jpg");
+  background-color:rgb(140, 143, 139);
   background-size: cover;
 }
 
